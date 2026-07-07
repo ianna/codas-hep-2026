@@ -1,12 +1,12 @@
-# Tutorial on columnar analysis at US-CMS on June 1, 2026, at University of Maryland
+# Tutorial on columnar analysis
 
 ## Local setup
 
 First, clone this repository:
 
 ```
-git clone https://github.com/iris-hep/uscms-idap-training.git
-cd uscms-idap-training/columnar
+git clone https://github.com/iris-hep/codas-hep-2026.git
+cd codas-hep-2026/columnar
 ```
 
 Make sure you've [installed pixi](https://pixi.prefix.dev/latest/installation/) on your computer.
@@ -16,16 +16,6 @@ Then you can install the environment and start a local JupyterLab session with:
 ```
 pixi run start
 ```
-
-<!----- Click on this link:
-
-<p align="center">
-  <a href="https://ianna.github.io/2025-05-19-uscms-rice-tutorial/lab/index.html?path=student.ipynb">
-    <img src="https://jupyterlite.readthedocs.io/en/latest/_static/badge.svg" alt="Launch JupyterLite" height="40">
-  </a>
-</p>
-
-to open your student notebook in JupyterLite. --->
 
 ## Acknowledgements
 <div>
