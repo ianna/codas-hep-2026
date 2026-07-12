@@ -25,3 +25,20 @@ dependencies:
   - scikit-hep-testdata>=0.6.5
   - uproot>=5.7.5,<6
   - vector>=1.7.0,<2
+  - pip
+  - xrootd==5.8.1
+  - zstandard==0.23.0
+  - lz4==4.4.4
+  - python-xxhash==3.5.0
+  - awkward-cpp==54
+  - particle==0.25.4
+  - awkward-pandas==2023.8.0
+  - fsspec-xrootd==0.5.1
+  - aiohttp==3.12.13
+  - fastjet==3.5.0.1
+  - zipp !=3.23.0
+  - cuda-nvrtc
+  - cuda-version
+  - cupy
+  - pip:
+      - cuda-cccl[cu13]
