@@ -25,5 +25,7 @@ dependencies:
   - aiohttp==3.12.13
   - fastjet==3.5.0.1
   - zipp !=3.23.0
+  - cuda-nvrtc
+  - cuda-version
   - cupy
   - cuda-cccl
