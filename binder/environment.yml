@@ -21,6 +21,7 @@ dependencies:
   - numpy==2.2.6
   - pandas==2.3.0
   - pyarrow==20.0.0
+  - pyhf
   - python-graphviz>=0.21,<0.22
   - scikit-hep-testdata>=0.6.5
   - uproot>=5.7.5,<6
