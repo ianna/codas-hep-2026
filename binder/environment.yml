@@ -28,4 +28,5 @@ dependencies:
   - cuda-nvrtc
   - cuda-version
   - cupy
-  - cuda-cccl
+  - pip:
+      - cuda-cccl[cu13]
